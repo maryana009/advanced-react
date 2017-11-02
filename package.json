@@ -27,10 +27,12 @@
     "jest": "^21.2.1"
   },
   "dependencies": {
+    "axios": "^0.17.0",
     "babel-loader": "^7.1.2",
     "babel-polyfill": "^6.26.0",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
+    "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "webpack": "^3.7.1"
