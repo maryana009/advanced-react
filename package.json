@@ -32,6 +32,8 @@
     "babel-polyfill": "^6.26.0",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
+    "lodash.debounce": "^4.0.8",
+    "lodash.pickby": "^4.6.0",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
